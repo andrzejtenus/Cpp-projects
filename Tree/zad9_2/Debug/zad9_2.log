@@ -1,0 +1,12 @@
+﻿  zad9_2.cpp
+c:\users\andrz\source\repos\zad10_1\zad9_2\zad9_2\zad9_2.cpp(33): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\andrz\source\repos\zad10_1\zad9_2\zad9_2\zad9_2.cpp(45): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\andrz\source\repos\zad10_1\zad9_2\zad9_2\zad9_2.cpp(50): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\andrz\source\repos\zad10_1\zad9_2\zad9_2\zad9_2.cpp(73): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\andrz\source\repos\zad10_1\zad9_2\zad9_2\zad9_2.cpp(96): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\andrz\source\repos\zad10_1\zad9_2\zad9_2\zad9_2.cpp(102): warning C4554: „&”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+c:\users\andrz\source\repos\zad10_1\zad9_2\zad9_2\zad9_2.cpp(109): warning C4554: „&”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+c:\users\andrz\source\repos\zad10_1\zad9_2\zad9_2\zad9_2.cpp(127): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\andrz\source\repos\zad10_1\zad9_2\zad9_2\zad9_2.cpp(170): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\andrz\source\repos\zad10_1\zad9_2\zad9_2\zad9_2.cpp(179): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  zad9_2.vcxproj -> C:\Users\andrz\source\repos\Zad10_1\zad9_2\Debug\zad9_2.exe
